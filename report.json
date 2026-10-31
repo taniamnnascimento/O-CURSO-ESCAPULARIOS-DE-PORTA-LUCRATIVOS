@@ -1,0 +1,17 @@
+{
+  "pageUrl": "https://customizeartesacra.com.br/escapularios/?vk_source=paid_metaads&vk_ad_id=%7B%7Bad.id%7D%7D",
+  "downloadedAt": "2026-10-30T17:58:49.869Z",
+  "stats": {
+    "assetsDownloaded": 89,
+    "assetsSkipped": 21,
+    "totalBytes": 11850714,
+    "errors": [
+      "404: https://customizeartesacra.com.br/wp-content/uploads/2025/08/OBJECT.webp",
+      "404: https://customizeartesacra.com.br/escapularios/document.referrer",
+      "404: https://customizeartesacra.com.br/escapularios/&quot;data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20preserveAspectRatio=&#039;none&#039;%20overflow=&#039;visible&#039;%20height=&#039;100%&#039;%20viewBox=&#039;0%200%2024%2024&#039;%20fill=&#039;none&#039;%20stroke=&#039;black&#039;%20stroke-width=&#039;2.6&#039;%20stroke-linecap=&#039;square&#039;%20stroke-miterlimit=&#039;10&#039;%3E%3Cpath%20d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;",
+      "404: https://customizeartesacra.com.br/escapularios/el.href",
+      "404: https://customizeartesacra.com.br/escapularios/r",
+      "404: https://customizeartesacra.com.br/escapularios/window.location.href"
+    ]
+  }
+}
